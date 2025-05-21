@@ -84,6 +84,10 @@
         "mvelazc",
         "m0g0zf7"
     ],
+    "admin_users": [
+        "m0g0tiz", 
+        "r0m0ooV"
+    ],  // Lista de administradores
     "version": "1.0.0",
     "last_updated": "2024-05-21 10:00:00",
     "require_corporate_network": false,
