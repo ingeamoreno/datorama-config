@@ -144,7 +144,8 @@
         "d0g0nfo",
         "a0s1nf2",
         "e0h0e6p",
-        "r0m0oov"
+        "r0m0oov",
+        "prueba"
     ],
     "admin_users": [
         "m0g0tiz",
@@ -153,7 +154,7 @@
         "r0m0oov"
     ],
     "version": "1.0.2",
-    "last_updated": "2025-05-22 14:29:34",
+    "last_updated": "2025-05-22 14:38:32",
     "require_corporate_network": false,
     "changelog": [
         {
