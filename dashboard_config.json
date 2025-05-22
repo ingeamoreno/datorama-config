@@ -82,15 +82,14 @@
         "c0a04zm",
         "m0m1215",
         "mvelazc",
-        "m0g0zf7",
-        "pruebausuario"
+        "m0g0zf7"
     ],
     "admin_users": [
         "m0g0tiz",
         "r0m0ooV"
     ],
-    "version": "1.0.0",
-    "last_updated": "2025-05-22 07:13:28",
+    "version": "1.0.2",
+    "last_updated": "2025-05-22 08:29:48",
     "require_corporate_network": false,
     "changelog": [
         {
@@ -101,6 +100,14 @@
                 "Implementación inicial de configuración externa",
                 "Migración de dashboards existentes al nuevo formato",
                 "Inclusión de todos los usuarios autorizados"
+            ]
+        },
+        {
+            "version": "1.0.2",
+            "date": "2025-05-22",
+            "author": "m0g0tiz",
+            "changes": [
+                "Control de cambios"
             ]
         }
     ],
