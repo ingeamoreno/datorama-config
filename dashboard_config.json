@@ -142,17 +142,18 @@
         "c0r0mav",
         "a0m1gmp",
         "d0g0nfo",
-        "a0s1nf2"        
-        
+        "a0s1nf2",
+        "e0h0e6p",
+        "r0m0oov"
     ],
     "admin_users": [
         "m0g0tiz",
-        "r0m0ooV",
         "e0h0e6p",
-        "o0a01sf"
+        "o0a01sf",
+        "r0m0oov"
     ],
     "version": "1.0.2",
-    "last_updated": "2025-05-22 13:58:53",
+    "last_updated": "2025-05-22 14:29:34",
     "require_corporate_network": false,
     "changelog": [
         {
