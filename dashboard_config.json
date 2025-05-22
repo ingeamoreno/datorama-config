@@ -82,19 +82,16 @@
         "c0a04zm",
         "m0m1215",
         "mvelazc",
-        "m0g0zf7"
+        "m0g0zf7",
+        "pruebausuario"
     ],
     "admin_users": [
-        "m0g0tiz", 
+        "m0g0tiz",
         "r0m0ooV"
-    ],  
+    ],
     "version": "1.0.0",
-    "last_updated": "2024-05-21 10:00:00",
+    "last_updated": "2025-05-22 07:13:28",
     "require_corporate_network": false,
-    "config_url": "",
-    "remote_config_enabled": true,
-    "auto_update_check": true,
-    "auto_update_interval": 24,
     "changelog": [
         {
             "version": "1.0.0",
@@ -107,5 +104,10 @@
             ]
         }
     ],
+    "using_local_config": false,
+    "config_url": "",
+    "remote_config_enabled": true,
+    "auto_update_check": true,
+    "auto_update_interval": 24,
     "notes": "Configuración inicial para la aplicación de dashboards de Datorama. La propiedad config_url debe actualizarse con la URL de GitHub cuando esté disponible."
 }
