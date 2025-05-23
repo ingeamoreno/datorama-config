@@ -1,17 +1,17 @@
 {
     "dashboards": {
-        "Onsite/Offsite": "https://platform-us2.datorama.com/external/dashboard?embedpage=bab9f8f9-6567-4383-a166-b867db0f46dc",
-        "Display Onsite Attribution": "https://platform-us2.datorama.com/external/dashboard?embedpage=f06ec4c2-c795-4c3b-a0b8-bfdc1883d6be",
-        "Social Commerce": "https://platform-us2.datorama.com/external/dashboard?embedpage=d798ca5c-e347-4bb9-af03-da8238368ae3",
-        "Sponsored Products (Manage)": "https://platform-us2.datorama.com/external/dashboard?embedpage=e69cc3d2-34d9-4697-b47c-9f193122f032",
-        "Sponsored Brands/Video (Manage)": "https://platform-us2.datorama.com/external/dashboard?embedpage=e431e21f-12fe-4555-9e71-a33c64d613f6",
-        "Sponsored Products (Self Service)": "https://platform-us2.datorama.com/external/dashboard?embedpage=3417d3bf-937c-46b1-b53f-18675cb35512",
-        "DSP": "https://platform-us2.datorama.com/external/dashboard?embedpage=e3abcfa8-97dd-46a3-8c4c-aef562f4fee2",
-        "Tótem": "https://platform-us2.datorama.com/external/dashboard?embedpage=8ba735d9-b9fb-4e60-83b9-9bbd87efa66f",
-        "Dubai": "https://platform-us2.datorama.com/external/dashboard?embedpage=e90c5276-7c95-4e27-8ba8-f1cf99fed9a1",
-        "Cabeceras digitales": "https://platform-us2.datorama.com/external/dashboard?embedpage=51062043-2404-4921-a1c5-eb549b47db12",
-        "Ventas Omnicanal": "https://platform-us2.datorama.com/external/dashboard?embedpage=629d3c4d-1276-4ae0-b350-c8926aa2eada",
-        "Brand Stores": "https://platform-us2.datorama.com/external/dashboard?embedpage=c30a43ee-426a-423c-99f6-12a9b2abdf9a"
+        "Onsite/Offsite": "Z0FBQUFBQm9MX3lCWVVWN3QwWm56ZHB3T1h2ZkNudmlwT1hyYXA5MkY3ZG8tV3JVOHRNbVRaQ0lEU0RFTWQ0cUhWTGMtcUo1Tkl0S3EtVUY3cWo1aVlsVVBBYzFCcC1vX2xhQ1VXREladG54ZUlfN1dSMUdlRGtucmV0QzIxTWN4VHNGaEpZWWNMTHVfaWY5RV9JQk5ycVJSM1FnUlRZdXl3eWZiRmNWeEw4WVlFZ3BxOElnSnVtT2ZwV0t3eFBjTUxMdmdOZUl4WGdLblRxR1RKVVp5bDZlM1lUXzBYYWFJZz09",
+        "Display Onsite Attribution": "Z0FBQUFBQm9MX3lCdG1mRnBoNE44SzNVamhPTkY1bjN5aXZlbzR2ZjZxaWNQQUR6M1dQeU5XWS1nMldvNDhNM2ZqME9hWDdQbzVnVE14MjFCLURFUHZMZTJ2MTluWnNxeU50Y2NvVXo5Wk1aZE16VTZXMS1DRllfX2JEeHJ0M0xnTGVfa05KblNYTU9HbW9BV3FvVzFWTU1WM2o2ZHFqZXM5aXI1NDFVdm1KVmtUWXlfWk12N3F6N1dJU1ljTVJvZURwWE9McEpreDJOTEdBX19CTGMwX3c2Vi1VVWZtdHlPQT09",
+        "Social Commerce": "Z0FBQUFBQm9MX3lCRWZRMFlIUmhMbHI5b2ZFYTRRWkkwdEpJYjBHVG00akxRTDFnTzVMT1hQczJLVTg5ZFN5YUNJOFFKZGpLNlo5MnljTTVfMkpOck5zbGpXZHhMOXI4MFY1aWpqTEl1Uk0yYTlxMkxzSGZtOVFBNGt1STBDM2FOa0tzRFEzWVJuT185aElyZVBuQnp4RTNEM3Z0ZUpLTjFiNnFvbTcwaUxIUEo5ZWxtclFFMy1vVDhCN0FrOVhKRkFPSGRVVVVIRHlKaTlVcmpaQ09RaGM4OEw0QXhHUUVsdz09",
+        "Sponsored Products (Manage)": "Z0FBQUFBQm9MX3lCZHZMcm5IU3Y0NVFEaFNjWHE2NXVBdERGRElpeldjcXBnRmIwMHNMSWhDU2xKWjc1akc4NE9xNFg5OElhcUV5NV8tY1pZYVEzTm1Pbl9aYVhHUXpKNmhYdnQzYUo3NEZNQkNjdzVQVHk2M0haUnRlVUJ3c2NlaXZpUnJvZDJKM2JxSmI0QTBRVHkyTmktc0ZWVkctbWZSVXlfUFdHVnlxZGZqUzlPMmJ3cUdoQkxlMzdwVmFUeU1EMklnTjFwRDlEb0xUS21XdWxjQ2hpakFPaU8tT1Y4dz09",
+        "Sponsored Brands/Video (Manage)": "Z0FBQUFBQm9MX3lCVWw3cmoxQVNFNm8xdW8ydzl6TFRubzhKOXU4X0FuTklteTJtYlpqYmJKSmxfNEhNcF9UWEhjTzRObjRERDNDVWFOcFQ4VUZ5SGtjZjZSOUtmaHJMYlppbC1NNTFUX3pSWlVOUjVHNWU1aDN5cFg3bEZOYmhJSEFhUVBOYWtZVDYtcnRPS19MNkxlakFraDJXTEE4UGhPcmZTTWFmLWhOZ09PMlVpX0lCdHI5QmxSN2JoQVgzVkRfR1c3OWk5Z2tJN2d2eFdwYUZ4RDJPbG5GaVRuWHloQT09",
+        "Sponsored Products (Self Service)": "Z0FBQUFBQm9MX3lCb1dER25Cb1lzYlIxazJyRFFoazh0RWxQZnc3U1hMNVU4Z3EzUjlBOHhvcWt1Q0dQeTY2U3lLZWM3SW1ITkxmQTBLVDcyTnNvQTloQTh0b0ZKa2M0YUpIekVfMkVxZXVHNFVQVXBvTWhWbXA0SEdval90bWlWMDcxV2ozMkNtNGZSNGp1d2FVcFRvTWxBMUJaeDdhME50YXBjOFJ1V1U2Vy1ZTEFuc2p1c0hxWGR3NW1uWWxrUnYyTXQ5azB3N1NWWmg2aGEzd1BNRnFXbzhlR3JXbEJudz09",
+        "DSP": "Z0FBQUFBQm9MX3lCUHZXVkM4Y19PNUJtX1lEMVBmYjFVRm51T3FQX0hOWk9WR0dIdEstZFY3UXhZRkNMRUltXzdzRUZObWU5dTJtVVBjNGhsd0dvMHp3WFRMTjV4WEQ2cWJEZjdWM0Q0RDJueVgtZFFvWnVpNER2Z2hPLWNMQjFodmRRQUNTUEJLMm55cmU0QlFGc0J2NFRBSk9TZFVPbXdfMUZlQWNTVWYtQXE2SVR5X00zazl3aHpmQkswRG0tSEZ2MmJ4ODlYWjJPTmZGeHhNQS1KbllFQVZpa2RJSW9sZz09",
+        "Tótem": "Z0FBQUFBQm9MX3lCY1VFcVA1SnZGWTgtcjA1bDM1UjI5OXUyT281YTdZTy1XN1lIYmdKajNiMFZkOHdTZjFYYTV5LTVGTUlKdkMyRThqUHVfSm9fU05YMkRzMlRCdUdpMUJNRlRnSmhoOU00cWtNT3FNY1Z1aWw4MVRVM1NsRXh6QXVwMmFMeFRVVm5EUEdBMThSb1R1Y1RuTlZldF94VElQdlEyVUx3M2w5VkNjV1Y0MkxDV19Xa0hfVWlNWDJYS1pWMGloNGl0bWxGR1l2c2dhTXBTOXM0eW9wdHlGeFJLUT09",
+        "Dubai": "Z0FBQUFBQm9MX3lCclZsamR6S09JUl9fSXZ0VUxhTVFGNkdSYnZES003Vy1Ra2RyTlljTmg5OUZ2N2RMOVN0aEI3cF9sVThDZVhOcGdDUWIydTVnazNON2R3TDJPeGlFRGQtU0lTdThBbDdFak9VNGZvVmZSM3hrWnNBLTNfUjNpX1ZScTVHNG1YTkM0bk1Yd0pEdjlSVzB2TkxpdU10bXg0WFFJVWhNUkNaMDdzTXBIVWNsTl9vSTZNc3dUeHhtay1SSWZUQ09NX1F0VG9UckZDbzh5dV9IRmowX0RndERFZz09",
+        "Cabeceras digitales": "Z0FBQUFBQm9MX3lCTm4yc1NCbDRTU2FISG1vSWltUlI5TXJiS3VGQ0VSWm1xc05jVVpFMjNCcDY2QkVvSm82dzczMURVbm5QVXJBV2xXWGQ5SVplRjVkckVPOVAzYjNTY29hamRFVXhPcXJBOUFnVnhCV09TQWd3bFJRX2ZWOUVjZFhsWkRYLXRSWFpycWR1dV83X0QxSVVCZjJCMlJwQV9SUkZxblEyMjBQU1R3aG55OTU1SV9Hc0tSTDVnSVk5UUhXaU1qa1IxSjVqdUdwYk5NcDFoU0JYdDk2c1A2UHRIQT09",
+        "Ventas Omnicanal": "Z0FBQUFBQm9MX3lCS3JYakpyYlNNLWc2cXl4a2JqOG5MSkJnSk5tVnVvc2thYjh4czlXLWMwWGVxdWJuSGhlR0l2a2FTdU1GcVFDQXM5bU12SFZrYlNKVnZVS2VwZEVPa3E0LU0xWUxrSU5UVHItRkpfRHBwdXVkVjRuZ1puQWZDdnAzMXUtOEZLSFFIUzV5U3ducmpRVHlBLTliZG10RHJOc04yTHpqRlA1S2FGQW5MMERxUlpBZG4wMUJJZHFxbWNmbS15MzRuN21QeWJDQTJSSDhyMFlkLVNsMmcwcU5oQT09",
+        "Brand Stores": "Z0FBQUFBQm9MX3lCbHdsQmNqSmxCcUwxZFpqd2J0TFFWVHp3MS1KV21QMnUwbVdnVC1fUVhxZHByQ1ptc1M3cDlDQjdXTUY5aFJKY016bUdTTUl6MHg3ZTAzOEFBOWVzeEJPR01SLTROQlQ1bFhSZ0dmV1Y0S2g0R29abnVBWkVWZWJvbzJyWXd5alBCak11OENIRnBXaTdPRGcyY1JVbjc3Sk1UZFg0Wmc5N21DNUxsWllQaUZ5eE9UZmpTV0hVQjBCa0RFeVhkY2txNWRlUV92bXJQRVRUUjNjTEU4ZERDQT09"
     },
     "authorized_users": [
         "m0b0xkx",
@@ -153,8 +153,8 @@
         "o0a01sf",
         "r0m0oov"
     ],
-    "version": "1.0.2",
-    "last_updated": "2025-05-22 14:38:32",
+    "version": "1.0.3",
+    "last_updated": "2025-05-22 15:45:00",
     "require_corporate_network": false,
     "changelog": [
         {
@@ -174,6 +174,16 @@
             "changes": [
                 "Control de cambios"
             ]
+        },
+        {
+            "version": "1.0.3",
+            "date": "2025-05-22",
+            "author": "m0g0tiz",
+            "changes": [
+                "Implementación de cifrado AES-256 para URLs",
+                "Soporte para conexión desde cualquier red",
+                "Mejoras en seguridad de configuración"
+            ]
         }
     ],
     "using_local_config": false,
@@ -181,5 +191,7 @@
     "remote_config_enabled": true,
     "auto_update_check": true,
     "auto_update_interval": 24,
-    "notes": "Configuración inicial para la aplicación de dashboards de Datorama. La propiedad config_url debe actualizarse con la URL de GitHub cuando esté disponible."
+    "notes": "Configuración con cifrado AES-256 para URLs. Las URLs están protegidas y solo pueden ser descifradas por la aplicación con la clave correcta.",
+    "encrypted": true,
+    "encryption_version": "1.0"
 }
